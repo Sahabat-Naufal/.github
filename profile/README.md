@@ -1,12 +1,12 @@
-<h1 align="center">Central Indonesia</h1>
+<h1 align="center">Sahabat Naufal</h1>
 <p align="center">
-  <a href="https://Central-Indonesia.github.io/">
-    <img src="https://cdn.discordapp.com/attachments/896416814861537300/896653271303872542/central_berawan.png">
+  <a href="https://Sahabat-Naufal.github.io/">
+    <img src="https://cdn.discordapp.com/attachments/952882580292780119/957418807725527050/Sahabat_Naufal.png">
   </a>
     <hr>
-    <p align="center"><strong>Central indonesia developer team</p>
+    <p align="center"><strong>Sahabat Naufal Developer Team</p>
     <p align="center">
-      <a href="https://discord.io/centralffa">
+      <a href="https://discord.io/sahabatnaufalffa">
         <p align="center">Join Discord</p>
       </a>
     </p>
